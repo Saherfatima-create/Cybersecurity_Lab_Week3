@@ -27,7 +27,7 @@ In this project, we successfully completed two primary tasks: first, using the *
 ### Step 1.1: Networkwalks Hash Calculator Interface
 * **Description:** Access kiya gaya Networkwalks Hash Calculator home page jahan text, file, aur PDF conversion ke options available hain.
 * **Screenshot:**
-  ![Hash Calculator Home](week%203%20%201.png)
+  ![Hash Calculator Home](week%203%201.png)
 
 ### Step 1.2: PDF File Upload & Hash Extraction
 * **Description:** Locked PDF file (`My-Locked-PDF2.pdf`) ko upload kar ke uska crackable cryptographic hash format successfully extract kiya gaya.
@@ -42,9 +42,9 @@ In this project, we successfully completed two primary tasks: first, using the *
 ### Step 1.4: Successful Password Cracking
 * **Description:** Dictionary attack successfully run hone ke baad password (`password1`) recover ho gaya.
 * **Screenshot:**
-  ![Online Attack Success](week3%20%204.png)
+  ![Online Attack Success](week3%204.png)
 
 ### Step 1.5: Final Flag Capture
-* **Description:** PDF unlock hone ke baad final project flag (`nw{networkwalks_flag1_jtr_270521_1}`) successfully capture kar liya gaya.
+* **Description:** PDF unlock hone ke baad final project flag successfully capture kar liya gaya.
 * **Screenshot:**
   ![Final Flag Capture](Screenshot%202026-09-24%20134552.png)
