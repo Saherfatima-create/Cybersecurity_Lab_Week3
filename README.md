@@ -25,26 +25,26 @@ In this project, we successfully completed two primary tasks: first, using the *
 ## 🚀 Part 1: Password Cracking Process
 
 ### Step 1.1: Networkwalks Hash Calculator Interface
-* **Description:** Access kiya gaya Networkwalks Hash Calculator home page jahan text, file, aur PDF conversion ke options available hain.
+* **Description:** Access kiya gaya Networkwalks Hash Calculator home page jahan text, file, aur PDF conversion ke options available hain[cite: 7].
 * **Screenshot:**
-  ![Hash Calculator Home](week%203%201.png)
+  ![Hash Calculator Home](week%203-1.png)
 
 ### Step 1.2: PDF File Upload & Hash Extraction
-* **Description:** Locked PDF file (`My-Locked-PDF2.pdf`) ko upload kar ke uska crackable cryptographic hash format successfully extract kiya gaya.
+* **Description:** Locked PDF file (`My-Locked-PDF2.pdf`) ko upload kar ke uska crackable cryptographic hash format successfully extract kiya gaya[cite: 8].
 * **Screenshot:**
-  ![PDF Hash Calculation](week3%202.png)
+  ![PDF Hash Calculation](week3-2.png)
 
 ### Step 1.3: Dictionary Attack Configuration
-* **Description:** Extracted hash ko Networkwalks Password Cracker tool mein paste kiya gaya aur built-in wordlist select ki gayi.
+* **Description:** Extracted hash ko Networkwalks Password Cracker tool mein paste kiya gaya aur built-in wordlist select ki gayi[cite: 9].
 * **Screenshot:**
-  ![Online Password Cracker](week3%203.png)
+  ![Online Password Cracker](week3-3.png)
 
 ### Step 1.4: Successful Password Cracking
-* **Description:** Dictionary attack successfully run hone ke baad password (`password1`) recover ho gaya.
+* **Description:** Dictionary attack successfully run hone ke baad password (`password1`) recover ho gaya[cite: 10].
 * **Screenshot:**
-  ![Online Attack Success](week3%204.png)
+  ![Online Attack Success](week3-4.png)
 
 ### Step 1.5: Final Flag Capture
-* **Description:** PDF unlock hone ke baad final project flag successfully capture kar liya gaya.
+* **Description:** PDF unlock hone ke baad final project flag (`nw{networkwalks_flag1_jtr_270521_1}`) successfully capture kar liya gaya[cite: 11].
 * **Screenshot:**
-  ![Final Flag Capture](Screenshot%202026-09-24%20134552.png)
+   ![Final Flag Capture](week3-13.png)
