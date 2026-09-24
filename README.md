@@ -107,5 +107,8 @@ In this project, we successfully completed two primary tasks: first, using the *
 3. **Proactive Credential Auditing:** Regularly perform authorized internal password audits to identify weak or default credentials before external malicious entities can exploit them.
 
 ---
+Mentored by Networkwalks & Waqas Karim (CCIE)
+
+
 *Authorized Cybersecurity Portfolio Project — Developed as part of the Internship Training Curriculum.*
    
